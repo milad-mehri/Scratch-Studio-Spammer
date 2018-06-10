@@ -19,3 +19,6 @@ Which in this case is 5110853
 Input the studio ID and past it into the prompt.
 
 Then it will be filled with 1-500 projects.
+
+
+You must have permission to post in the studio and be logged in.
