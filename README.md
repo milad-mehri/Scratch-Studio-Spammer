@@ -9,8 +9,8 @@ You could use it once every hour per user.
 
 # How Do I Use It?
 
-Go here and input the studio ID:
-https://EveryNotedCygwin--miladmehri.repl.co
+Copy the code from here: https://github.com/milad-mehri/Scratch-Studio-Spammer/blob/master/spammer.js
+Go to the studio and paste it in the console.
 
 Get the studio ID by copying the number in the link.
 https://scratch.mit.edu/studios/5110853
